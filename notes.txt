@@ -1,0 +1,2 @@
+here are some notes
+man: the manual keyword
